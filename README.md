@@ -1,4 +1,5 @@
 Fall14CS156
 ===========
 
-Ai
+This repository is for solving the assignments of CS156. 
+
